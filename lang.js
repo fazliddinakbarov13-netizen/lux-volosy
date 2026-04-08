@@ -234,3 +234,4 @@ const translations = {
         footer_copy: "© 2026 Lux Volosy. All rights reserved."
     }
 };
+// Updated: 2026-04-08
