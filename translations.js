@@ -75,7 +75,7 @@ const translations = {
         footer_contact: "Biz bilan bog'lanish:",
         footer_phone: "Telefon: +998 97 704 37 11",
         footer_address: "Manzil: Toshkent shahar, Yunusobod tumani",
-        footer_copy: "© 2026 Lux Volosy. Barcha huquqlar himoyalangan."
+        footer_copy: "© 2024 Lux Volosy. Barcha huquqlar himoyalangan."
     },
     ru: {
         nav_services: "Услуги",
@@ -153,7 +153,7 @@ const translations = {
         footer_contact: "Свяжитесь с нами:",
         footer_phone: "Телефон: +998 97 704 37 11",
         footer_address: "Адрес: г. Ташкент, Юнусабадский район",
-        footer_copy: "© 2026 Lux Volosy. Все права защищены."
+        footer_copy: "© 2024 Lux Volosy. Все права защищены."
     },
     en: {
         nav_services: "Services",
@@ -231,7 +231,7 @@ const translations = {
         footer_contact: "Contact us:",
         footer_phone: "Phone: +998 97 704 37 11",
         footer_address: "Address: Tashkent city, Yunusabad district",
-        footer_copy: "© 2026 Lux Volosy. All rights reserved."
+        footer_copy: "© 2024 Lux Volosy. All rights reserved."
     }
 };
 // Updated: 2026-04-08
