@@ -74,7 +74,7 @@ const translations = {
         footer_brand: "O'zbekistondagi 1-raqamli soch ulash akademiyasi va saloni.",
         footer_contact: "Biz bilan bog'lanish:",
         footer_phone: "Telefon: +998 97 704 37 11",
-        footer_address: "Manzil: Oloy bozori-59/7",
+        footer_address: "Manzil: Toshkent shahar, Oloy bozori-59/7",
         footer_copy: "© 2014 Lux Volosy. Barcha huquqlar himoyalangan."
     },
     ru: {
@@ -152,7 +152,7 @@ const translations = {
         footer_brand: "Академия и салон наращивания волос №1 в Узбекистане.",
         footer_contact: "Свяжитесь с нами:",
         footer_phone: "Телефон: +998 97 704 37 11",
-        footer_address: "Адрес: Алайский рынок-59/7",
+        footer_address: "Адрес: г. Ташкент, Алайский рынок-59/7",
         footer_copy: "© 2014 Lux Volosy. Все права защищены."
     },
     en: {
@@ -230,7 +230,7 @@ const translations = {
         footer_brand: "The #1 hair extension academy and salon in Uzbekistan.",
         footer_contact: "Contact us:",
         footer_phone: "Phone: +998 97 704 37 11",
-        footer_address: "Address: Oloy market-59/7",
+        footer_address: "Address: Tashkent city, Oloy market-59/7",
         footer_copy: "© 2014 Lux Volosy. All rights reserved."
     }
 };
